@@ -51,6 +51,10 @@ input {
     margin-top: 10px;
 }
 
+#finalImage{
+    width: 100%;
+}
+
 button {
     width: 90%;
     padding: 14px;
